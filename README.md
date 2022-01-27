@@ -2,9 +2,8 @@
 
 <div style="display: inline_block">
   <a href="https://github.com/emailducris">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=emailducris&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emailducris&layout=compact&langs_count=7&theme=chartreuse-dark" />
- 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=emailducris&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisAndriotti&layout=compact&langs_count=7&theme=dark />
 </div>  
 <div style="display: inline_block"><br>
   <img align="center" alt="Cris-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -15,7 +14,7 @@
   #
 
  <div>    	
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.gg/cristhiano#4816" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:emailducris@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://br.linkedin.com/in/cristhiano-garcia-enchaki" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
  
