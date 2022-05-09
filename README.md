@@ -1,5 +1,9 @@
 ## Olá mundo! Eu sou o Cristhiano Enchaki
 
+🧑‍💼 Hoje trabalho como Analista de Suporte N2. <br> 
+🌱 Realizando curso de especialização Full Stack - DEVInHouse - Senai SC. 
+
+
 <div style align="center">
   <a href="https://github.com/emailducris">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emailducris&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
