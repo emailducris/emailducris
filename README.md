@@ -18,15 +18,15 @@
   <img align="center" alt="Cris-MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />  
   <img align="center" alt="Cris-Bootstrap" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
   <img align="center" alt="Cris-MaterialUi" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />   
-  <img align="center" alt="Cris-CSharp" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-          
-       
-</div>
+  <img align="center" alt="Cris-CSharp" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />  
+  </div>
   <br/>
 
  <div style align="center">    	
    <a href = "mailto:emailducris@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://br.linkedin.com/in/cristhiano-garcia-enchaki" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://discordapp.com/users/Cristhiano#4816" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+   
+   ![Snake animation](https://github.com/emailducris/emailducris/blob/output/github-contribution-grid-snake.svg)
  
 </div>
