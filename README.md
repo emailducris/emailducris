@@ -1,8 +1,8 @@
 ## Olá mundo! Eu sou o Cristhiano Enchaki
 
-🧑‍💼 Hoje trabalho como Analista de Suporte N2. <br> 
+🧑‍💼 Hoje trabalho como Desenvolvedor Full Stack Junior <br> 
 🖥️ Fiz o curso Técnico de Desenvolvimento de Sistemas - Senai SC. <br> 
-🌱 Realizando curso de especialização Full Stack - DEVInHouse - Senai SC. 
+🌱 Realizei o curso de especialização Full Stack - DEVInHouse - Senai SC. 
 
 
 <div style align="center">
